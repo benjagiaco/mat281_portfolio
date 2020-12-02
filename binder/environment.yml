@@ -27,3 +27,5 @@ dependencies:
   - sympy=1.5
   - vega_datasets
   - xlrd=1.2
+  - descartes
+  - geopandas
